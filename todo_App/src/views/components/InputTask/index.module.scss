@@ -16,6 +16,7 @@
   }
 
   &Checkbox {
+    cursor: pointer;
     width: 20px;
     height: 20px;
   }
@@ -23,6 +24,7 @@
   &Title {
     padding: 5px;
     line-height: 1.2;
+    max-width: 35rem;
   }
 
   &Edit,
@@ -58,5 +60,20 @@
 
   &Save {
     background-image: url("./images/check.svg");
+  }
+}
+
+@media (max-width: 450px) {
+  .inputTask {
+    grid-template-columns: 1fr 35px 35px;
+    padding-right: 5px;
+
+    &Title {
+      min-width: 2rem;
+    }
+
+    &TitleEdit {
+      min-width: 2rem;
+    }
   }
 }

@@ -29,3 +29,10 @@
     }
   }
 }
+
+@media (max-width: 450px) {
+  .inputPlus {
+    min-width: 2rem;
+    grid-template-columns: 1fr 30px;
+  }
+}

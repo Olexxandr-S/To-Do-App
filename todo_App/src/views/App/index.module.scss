@@ -15,3 +15,24 @@
     margin-top: 15px;
   }
 }
+
+@media (max-width: 768px) {
+  .article {
+    min-width: 300px;
+
+    &Title {
+      font-size: 35px;
+    }
+  }
+}
+
+@media (max-width: 450px) {
+  .article {
+    min-width: 200px;
+    padding: 10px 15px 15px;
+
+    &Title {
+      font-size: 30px;
+    }
+  }
+}
