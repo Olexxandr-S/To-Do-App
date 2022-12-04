@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styles from "./index.module.scss";
-
+import { motion } from "framer-motion";
 interface InputTaskProps {
   id: string;
   title: string;

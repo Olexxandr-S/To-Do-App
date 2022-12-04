@@ -1,6 +1,6 @@
 import React, { useCallback, useState } from "react";
 import styles from "./index.module.scss";
-
+import { motion } from "framer-motion";
 interface InputPlusProps {
   onAdd: (title: string) => void;
 }
@@ -28,7 +28,8 @@ export const InputPlus: React.FC<InputPlusProps> = ({ onAdd }) => {
         }}
         placeholder="Enter text here"
       />
-      <button
+      <motion.button
+        whileTap={{ scaleY: 1.1, borderRadius: "0.4rem", rotate: 90 }}
         onClick={addTask}
         aria-label="Add"
         className={styles.inputPlusButton}
