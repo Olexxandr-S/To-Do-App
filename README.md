@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="0lexxandr-s-to-do.netlify.app/">
-    <img src="0lexxandr-s-to-do.netlify.app/images/ToDo-app.png" alt="Web-Dev Portfolio" >
+  <a href="https://0lexxandr-s-to-do.netlify.app/">
+    <img src="https://0lexxandr-s-to-do.netlify.app/images/ToDo-app.png" alt="Web-Dev Portfolio" >
   </a>
 </p>
 
@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="0lexxandr-s-to-do.netlify.app/">
-    <img src="0lexxandr-s-to-do.netlify.app/images/ToDo-tasks.png" alt="Web-Dev Portfolio" >
+  <a href="https://0lexxandr-s-to-do.netlify.app/">
+    <img src="https://0lexxandr-s-to-do.netlify.app/images/ToDo-tasks.png" alt="Web-Dev Portfolio" >
   </a>
 </p>
 
@@ -29,15 +29,15 @@
 </p>
 
 <p align="center">
-  <a href="0lexxandr-s-to-do.netlify.app/">
-    <img src="0lexxandr-s-to-do.netlify.app/images/ToDo-edit.png" alt="Web-Dev Portfolio" >
+  <a href="https://0lexxandr-s-to-do.netlify.app/">
+    <img src="https://0lexxandr-s-to-do.netlify.app/images/ToDo-edit.png" alt="Web-Dev Portfolio" >
   </a>
 </p>
 
 <br />
 
 <p align="center">
-  <a href="0lexxandr-s-to-do.netlify.app/">
+  <a href="https://0lexxandr-s-to-do.netlify.app/">
      <img src="https://api.netlify.com/api/v1/badges/90d622a0-b566-49f0-bf6e-90ee3abe4181/deploy-status">
   </a>
 </p>
