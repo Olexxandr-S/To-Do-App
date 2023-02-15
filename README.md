@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://0lexxandr-s-to-do.netlify.app/">
-    <img src="https://0lexxandr-s-to-do.netlify.app/images/ToDo-app.png" alt="Web-Dev Portfolio" >
+    <img src="https://0lexxandr-s-to-do.netlify.app/images/ToDo-app.png" alt="ToDo-app" >
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://0lexxandr-s-to-do.netlify.app/">
-    <img src="https://0lexxandr-s-to-do.netlify.app/images/ToDo-tasks.png" alt="Web-Dev Portfolio" >
+    <img src="https://0lexxandr-s-to-do.netlify.app/images/ToDo-tasks.png" alt="ToDo-tasks" >
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://0lexxandr-s-to-do.netlify.app/">
-    <img src="https://0lexxandr-s-to-do.netlify.app/images/ToDo-edit.png" alt="Web-Dev Portfolio" >
+    <img src="https://0lexxandr-s-to-do.netlify.app/images/ToDo-edit.png" alt="ToDo-edit" >
   </a>
 </p>
 
